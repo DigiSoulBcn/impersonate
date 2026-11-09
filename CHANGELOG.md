@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased] - xxxx-xx-xx
 
+## [0.7.0] - 2026-11-09 (unofficial build, DigiSoulBcn/impersonate)
+
+Built from the last commit of the archived upstream repository
+(owncloud/impersonate@8b137cc). The application code is unchanged.
+
+### Changed
+- [#251](https://github.com/owncloud/impersonate/pull/251) - chore: oc11 ready (upstream, never released)
+- [#254](https://github.com/owncloud/impersonate/pull/254) - fix: php8 (upstream, never released)
+- Release tarball is unsigned: no `appinfo/signature.json`, see README
+
 ## [0.6.0] - 2023-12-14
 
 ### Added
